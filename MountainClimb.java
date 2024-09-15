@@ -1,4 +1,4 @@
-package project5;
+package project Mountain;
 
 import java.io.*;
 import java.util.ArrayList;
